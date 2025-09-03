@@ -6,3 +6,6 @@ ECHO is on.
 - week1_labs/ - Environment setup and Python basics 
 - week2_labs/ - Git and Flet GUI development 
 - module1_final/ - Module 1 final project 
+- hello_flet.py: Basic Flet introduction with interactive elements
+- personal_info_gui.py: Enhanced personal information manager with GUI
+- Both applications use Flet 0.28.3 syntax and modern UI components"
