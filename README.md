@@ -18,10 +18,10 @@ Application Development and Emerging Technologies
 Academic Year 2025-2026
 
 ## Student Information
-- **Name:** [Your Full Name]
-- **Student ID:** [Your Student ID]
-- **Program:** [Your Academic Program]
-- **Section:** [Your Section]
+- **Name:** [Reynaldo B. Reyes Jr.]
+- **Student ID:** {231004626}
+- **Program:** [Bachelor of Computer Science]
+- **Section:** [3B ]
 
 ## Repository Structure
 
