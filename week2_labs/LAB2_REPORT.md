@@ -1,6 +1,6 @@
 **Student Name:** [Reynaldo B. Reyes Jr.]
 **Student ID:** [231004626]
-**Section:** [BSCS]
+**Section:** [B]
 **Date:** [September 4, 2025]
 
 ## Git Configuration
