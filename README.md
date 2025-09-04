@@ -18,10 +18,10 @@ Application Development and Emerging Technologies
 Academic Year 2025-2026
 
 ## Student Information
-- **Name:** [Reynaldo B. Reyes Jr.]
-- **Student ID:** {231004626}
-- **Program:** [Bachelor of Computer Science]
-- **Section:** [3B ]
+- **Name:** Reynaldo B. Reyes Jr.\
+- **Student ID:** 231004626\
+- **Program:** Bachelor of Computer Science\
+- **Section:** B
 
 ## Repository Structure
 
