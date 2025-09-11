@@ -70,7 +70,9 @@ Lastly, another issue that I experienced was installing Flet when I typed in the
 
 ### GUI Applications
 - [ ] hello_flet.py running with all features
+![alt text](week2_screenshoots/image1.png)
 - [ ] personal_info_gui.py with filled form and generated profile
+![alt text](week2_screenshoots/image2.png)
 
 ## Future Enhancements
 
