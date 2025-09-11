@@ -1,6 +1,6 @@
 **Student Name:** Reynaldo B. Reyes Jr. \
 **Student ID:** 231004626 \
-**Section:** BSCS - 3B \
+**Section:** BSCS - 3B 
 **Date:** August, 27 2025
 
 ## Environment Setup

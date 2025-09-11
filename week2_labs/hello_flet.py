@@ -21,9 +21,9 @@ def main(page: ft.Page):
     # Student information (update with your details)
     student_info = ft.Column([
         ft.Text("Student Information:", size=18, weight=ft.FontWeight.BOLD),
-        ft.Text("Name: [Your Full Name]", size=14),
-        ft.Text("Student ID: [Your Student ID]", size=14),
-        ft.Text("Program: [Your Program]", size=14),
+        ft.Text("Name: Reynaldo B. Reyes Jr.", size=14),
+        ft.Text("Student ID: 231004626", size=14),
+        ft.Text("Program: Computer Science", size=14),
         ft.Text(f"Date: {datetime.now().strftime('%B %d, %Y')}", size=14),
     ])
     

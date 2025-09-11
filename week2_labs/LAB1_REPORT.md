@@ -65,6 +65,7 @@ Lastly, another issue that I experienced was installing Flet when I typed in the
 
 ### Git Repository
 - [ ] GitHub repository with commit history
+
 - [ ] Local git log showing commits
 
 ### GUI Applications
