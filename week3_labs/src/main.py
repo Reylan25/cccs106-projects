@@ -235,7 +235,7 @@ def main(page: ft.Page):
         spacing=8,
     )
 
-    root_container = ft.Container(expand=True, bgcolor=ft.Colors.LIGHT_BLUE_ACCENT_700, content=content_column)
+    root_container = ft.Container(expand=True, bgcolor=ft.Colors.AMBER, content=content_column)
 
     page.add(root_container)
     page.update()
